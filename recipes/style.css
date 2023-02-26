@@ -1,0 +1,28 @@
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: #6e5339;
+
+}
+
+#title {
+  font-size: 50px;
+  color: #ffa600;
+  margin-top: 0px;
+
+}
+
+
+a {
+  text-decoration: underline;
+  color:#dadada;
+  font-family: Helvetica;
+  
+}
+
+a:hover {
+  color: #fff;
+}
+img:hover {
+  opacity: 0.8;
+}
+
